@@ -15,4 +15,7 @@ the script will create .csv file with the list of failures.
 
 
 my friend JOHN renames Only the copies of his files or folders!
+
 JOHN is a smart lad!!!
+
+be like a JOHN
