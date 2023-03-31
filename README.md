@@ -1,6 +1,6 @@
 # Rename Files or Folders Using Lists
 
-Script to rename files or folders/directories based on Excel or .csv list on Windows OS.
+A Script to rename files or folders/directories based on Excel or .csv list on Windows OS.
 
 To use:
 
@@ -15,8 +15,8 @@ if any items renaming will fail (for example: in use by other processes, or not 
 the script will create .csv file with the list of failures.
 
 
-my friend JOHN renames Only the copies of his files or folders!
+My friend JOHN renames Only the copies of his files or folders!
 
 JOHN is a smart lad!!!
 
-be like a JOHN
+Be like a JOHN
