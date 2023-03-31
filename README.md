@@ -1,6 +1,6 @@
-# Rename Dirs Using List
+# Rename Files or Folders Using Lists
 
-A Simple script to rename Windows OS folders based on excel or .csv list.
+a simple script to rename Windows OS folders/directories or files based on Excel or .csv list.
 
 To use:
 create excel or comma delimited .csv file with columns: 'old_name', 'new_name', 'old_location', 'new_location'
