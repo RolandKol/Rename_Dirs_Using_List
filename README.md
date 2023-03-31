@@ -1,4 +1,4 @@
-# Rename_Dirs_Using_List
+# Rename Dirs Using List
 
 A Simple script to rename Windows folders based on excel or .csv list.
 
